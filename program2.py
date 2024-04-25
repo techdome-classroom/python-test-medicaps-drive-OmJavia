@@ -15,6 +15,7 @@ class Solution(object):
         
         return total
 
+#test Cases
 solution = Solution()
 print(solution.romanToInt("III"))      
 print(solution.romanToInt("LVIII"))    
